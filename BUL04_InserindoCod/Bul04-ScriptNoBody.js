@@ -1,0 +1,1 @@
+console.log("c) Linkando um arquivo script no body");
