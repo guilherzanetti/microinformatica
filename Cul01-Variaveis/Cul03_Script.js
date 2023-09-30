@@ -45,3 +45,6 @@ let k=10;
 }
 
 console.log(y);
+
+//Perceber que o valor apresentado foi o 10 e não o 2. Então, a variável não foi redefinida.
+
